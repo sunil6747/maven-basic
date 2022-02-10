@@ -1,5 +1,15 @@
 # Basic Maven Example
 
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/summary/new_code?id=sunil6747_maven-basic)
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=sunil6747_maven-basic)](https://sonarcloud.io/summary/new_code?id=sunil6747_maven-basic)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sunil6747_maven-basic&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sunil6747_maven-basic)
+
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=sunil6747_maven-basic&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=sunil6747_maven-basic)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=sunil6747_maven-basic&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=sunil6747_maven-basic)
+
 This simple Maven project is importing JaCoCo's coverage report. For multi-module project example 
 see [multi-module Maven project](../maven-multimodule/README.md)
 
